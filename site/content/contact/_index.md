@@ -3,8 +3,7 @@ title: Contact
 logo: /img/logo.svg
 contact_entries:
   - text: |-
-      [](https://www.linkedin.com/in/justinagruber/)
-
+      
       ```
       <a>linkedin.com</a>
       ```
