@@ -4,7 +4,8 @@ logo: /img/logo.svg
 contact_entries:
   - text: |-
       
-      ```
+
+      ```css
       <a>linkedin.com</a>
       ```
     heading: Heading
